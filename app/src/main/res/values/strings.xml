@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HC05_bt</string>
+    <string name="room_temp_">"Room Temp. "</string>
+    <string name="light_1_on">Light 1 On</string>
+    <string name="light_1_off">Light 1 Off</string>
+    <string name="light_2_on">Light 2 On</string>
+    <string name="light_2_off">Light 2 Off</string>
+    <string name="Scan">Scan Bluetooth Devices</string>
+    <string name="todo">TODO</string>
+    <string name="text_pair">Pair</string>
+    <string name="text_list_devices">List of Devices</string>
+    <string name="Connect">Connect</string>
+</resources>

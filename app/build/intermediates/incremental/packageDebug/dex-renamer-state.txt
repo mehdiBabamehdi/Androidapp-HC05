@@ -1,0 +1,4 @@
+#Thu Jun 08 21:00:49 IRDT 2017
+base.0=/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

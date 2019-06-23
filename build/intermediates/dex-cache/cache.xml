@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_d302bc9a615835911c9c9211abb97bb8e61f913a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_85405b95fea00b06afc977c98f2700126ca6ae2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a98234224ab73f86a31c1c0bd00e9275899c5ec7">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_47bbeb75a5eebeed28ca6a5029c6fedfa030d4c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ea4909a58a478df8a3431ed08750fc9adbf3b42b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_91d43c7a3dfb5354f4076ff3d8c7e81ed64effcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bad547bb3523632cd999175465871b91c5b2beb">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/instant-run_a78f8b0a953fa88d3c9986d57de9e58e9d631f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cb287229b9dac81501e58384fa15e3d3344a096c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c0b5bd988be2869b810d84aad6ec69e77d8e5a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_53a51e610444366c5feda7438a186d9251378211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_73b5f9847053037c30fb9ccb0fb5ef82de7483b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_8b8515c033bc3bf4b1fbedcd727d564a0ca98895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_23008e29b57e6850094e2c654bb6b279377e0950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9678c17e06493b3422fbd814ed2d081f9d7e51b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b9df077f2b35a3fe1ca680aa1da32af1757e2c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6afc288c2a79dbeab16effb8f0f051c2b1f96b33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d0527dceaf766f64a77f15cfdc36712a2caaa032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/HC05_bt/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_a6ea29bc5a0ba379147f5914f8d5cf6b839dba44.jar" />
+    </item>
+
+</items>
